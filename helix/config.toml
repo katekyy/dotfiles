@@ -1,0 +1,4 @@
+theme = "hex_lavender"
+
+[editor]
+line-number = "relative"

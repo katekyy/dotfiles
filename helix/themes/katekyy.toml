@@ -1,0 +1,5 @@
+inherits = "hex_lavender"
+
+"ui.cursor" = { bg = "#00BBFF", fg = "#000000" }
+
+"#000000" = { bg = "#000000", fg = "FFFFFF"}
